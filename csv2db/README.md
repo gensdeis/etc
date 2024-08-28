@@ -5,5 +5,7 @@
 3. Add Python Interpreter
     - Ctrl + Shift + P
     - Python: Select Interpreter
-4. Run Python
+4. Install lib
+    - pip install pandas
+5. Run Python
     - Ctrl + F5
