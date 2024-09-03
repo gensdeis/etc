@@ -1,0 +1,11 @@
+E:\frozen3\etc\rust_simple_chat_client\target\debug\deps\libarrayvec-eaf07f302a502d1f.rmeta: C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src/lib.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\arrayvec_impl.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\arrayvec.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\array_string.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\char.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\errors.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\utils.rs
+
+E:\frozen3\etc\rust_simple_chat_client\target\debug\deps\arrayvec-eaf07f302a502d1f.d: C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src/lib.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\arrayvec_impl.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\arrayvec.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\array_string.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\char.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\errors.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\utils.rs
+
+C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src/lib.rs:
+C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\arrayvec_impl.rs:
+C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\arrayvec.rs:
+C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\array_string.rs:
+C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\char.rs:
+C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\errors.rs:
+C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\utils.rs:

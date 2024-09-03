@@ -1,0 +1,10 @@
+E:\frozen3\etc\rust_simple_chat_client\target\debug\deps\libaccesskit_consumer-3da354bf227c2368.rmeta: C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\lib.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\tree.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\node.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\filters.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\iterators.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\text.rs
+
+E:\frozen3\etc\rust_simple_chat_client\target\debug\deps\accesskit_consumer-3da354bf227c2368.d: C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\lib.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\tree.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\node.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\filters.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\iterators.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\text.rs
+
+C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\lib.rs:
+C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\tree.rs:
+C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\node.rs:
+C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\filters.rs:
+C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\iterators.rs:
+C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\text.rs:

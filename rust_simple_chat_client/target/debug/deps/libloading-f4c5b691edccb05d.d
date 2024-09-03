@@ -1,0 +1,11 @@
+E:\frozen3\etc\rust_simple_chat_client\target\debug\deps\liblibloading-f4c5b691edccb05d.rmeta: C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.5\src\lib.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.5\src\changelog.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.5\src\os\mod.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.5\src\os\windows\mod.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.5\src\util.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.5\src\error.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.5\src\safe.rs
+
+E:\frozen3\etc\rust_simple_chat_client\target\debug\deps\libloading-f4c5b691edccb05d.d: C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.5\src\lib.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.5\src\changelog.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.5\src\os\mod.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.5\src\os\windows\mod.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.5\src\util.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.5\src\error.rs C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.5\src\safe.rs
+
+C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.5\src\lib.rs:
+C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.5\src\changelog.rs:
+C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.5\src\os\mod.rs:
+C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.5\src\os\windows\mod.rs:
+C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.5\src\util.rs:
+C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.5\src\error.rs:
+C:\Users\frozen3\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.5\src\safe.rs:
